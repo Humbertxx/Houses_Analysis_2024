@@ -17,23 +17,6 @@ FROM rentalprices.real_estate_chicago
 WHERE listPrice IS NOT NULL
   AND status = 'for_sale'
   AND sqft IS NOT null
-UNION
-SELECT
-    'Izmir' AS city,
-   CASE
-		WHEN LOWER(`left`) LIKE '%k%' OR LOWER(`left`) LIKE '%da%' OR LOWER(`left`) LIKE '%villa%' THEN 'single_family'
-		WHEN LOWER(`left`) LIKE ('ya%') THEN 'single_family'
-		WHEN LOWER(`left`) IN ('loft','daire','residence','bina') THEN 'apartment'
-		ELSE `left`
-	END AS property_type,
-    room AS n_rooms,
-    salon AS n_baths,
-    (area * 10.7639) AS sqft_size,
-    (YEAR(CURRENT_DATE()) - age) AS year_built,
-    (NULLIF(price, 0) * 0.03047)AS total_price -- price is in turkish lira
-FROM rentalprices.real_estate_izmir
-WHERE price IS NOT NULL
-  AND area IS NOT null
 
 UNION
 -- Paris real estate (8 columns)
