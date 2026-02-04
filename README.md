@@ -1,5 +1,9 @@
 # Houses_Analysis_2024
 SQLite and MySQL code use to create a unify table with valuable insight to analyze international properties in Tableau. Properties in Chicago, London, and Paris 
+
+### Complete analysis accesible via Tableau. Found in my Tableau Public Profile: 
+https://public.tableau.com/app/profile/humberto.bohorquez/viz/2024_price_city_analysis/Story1
+
 ### Tools Used: 
 * **Database:** SQLite, MySQL
 * **Data Engineering:** SQL (DDL & DML) for data cleaning and unification
