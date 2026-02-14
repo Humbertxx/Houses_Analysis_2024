@@ -25,9 +25,8 @@ Developed an interactive dashboard to translate raw data into actionable financi
 
 ## Data Source 
 The data for this project was sourced from:
-* real_estate_london.csv
 * real_estate_barcelona.csv
 * real_estate_paris.csv
-* chicago.csv
+* real_estate_chicago.csv
 
 *Note: Raw data files are available in the `data/` directory of this repository.*
