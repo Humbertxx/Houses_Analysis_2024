@@ -20,7 +20,7 @@ Developed an interactive dashboard to translate raw data into actionable financi
 * Geospatial Intelligence: Implemented Heatmaps to pinpoint high-density clusters and "hot zones" for high-value listings within the urban cores of Chicago, London, and Paris.
 
 ## Key Insights & Impact
-*Provided a consolidated view of international property markets, reducing data retrieval time for cross-market comparison.
+* Provided a consolidated view of international property markets, reducing data retrieval time for cross-market comparison.
 * Identified distinct pricing tiers and market behaviors, offering a data-driven basis for potential real estate portfolio allocation in the US, UK, and France.
 
 ## Data Source 
