@@ -1,5 +1,5 @@
 # Houses_Analysis_2024
-SQLite and MySQL code use to create a unify table with valuable insight to analyze international properties in Tableau. Properties in Chicago, London, and Barcelona 
+SQLite and MySQL code use to create a unify table with valuable insight to analyze international properties in Tableau. Properties in Chicago, Paris, and Barcelona 
 
 ### Complete analysis accesible via Tableau. Found in my Tableau Public Profile: 
 https://public.tableau.com/app/profile/humberto.bohorquez/viz/2024_price_city_analysis/Story1
@@ -17,7 +17,7 @@ Developed an interactive dashboard to translate raw data into actionable financi
 * Price Distribution Analysis: Utilized Histograms to visualize the frequency distribution of property prices in each city, identifying the "fat tails" in luxury markets versus median-range housing.
 * Volatility & Outlier Detection: Constructed Box Plots to compare price variability and isolate statistical outliers, helping to benchmark "fair value" ranges for investment properties in each metropolitan area.
 * Correlation Studies: Deployed Scatter Plots to analyze the relationship between property size (sq footage) and listing price, calculating the price-per-square-foot efficiency for each region.
-* Geospatial Intelligence: Implemented Heatmaps to pinpoint high-density clusters and "hot zones" for high-value listings within the urban cores of Chicago, London, and Paris.
+* Geospatial Intelligence: Implemented Heatmaps to pinpoint high-density clusters and "hot zones" for high-value listings within the urban cores of Chicago, Barcelona, and Paris.
 
 ## Key Insights & Impact
 * Provided a consolidated view of international property markets, reducing data retrieval time for cross-market comparison.
@@ -29,4 +29,4 @@ The data for this project was sourced from:
 * real_estate_paris.csv
 * real_estate_chicago.csv
 
-*Note: Raw data files are available in the `data/` directory of this repository.*
+*Note: data files are available in the `data/` directory of this repository.*
