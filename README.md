@@ -31,9 +31,9 @@ The Tableau story contains three visualization dashboards:
 
 Add screenshots from the Tableau story here to make the README easier to scan and more visually aligned with a data analysis portfolio.
 
-![Dashboard 1 - Market Price Relationships](images/dashboard-1.png)
-![Dashboard 2 - Property Features and Apartment Pricing](images/dashboard-2.png)
-![Dashboard 3 - City-Level Price Benchmarks](images/dashboard-3.png)
+![Dashboard 1 - Market Price Relationships](images/Dashboard-1.png)
+![Dashboard 2 - Property Features and Apartment Pricing](images/Dashboard-2.png)
+![Dashboard 3 - City-Level Price Benchmarks](images/Dashboard-3.png)
 
 ## Project Overview
 
@@ -56,6 +56,9 @@ Houses_Analysis_2024/
 │   ├── real_estate_chicago.csv
 │   └── real_estate_paris.csv
 ├── images/
+│   ├── Dashboard-1.png
+│   ├── Dashboard-1.png
+│   ├── Dashboard-3.png
 │   └── .gitkeep
 ├── queries/
 │   ├── DataSorting.sql
