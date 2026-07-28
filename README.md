@@ -29,8 +29,6 @@ The Tableau story contains three visualization dashboards:
 
 ## Dashboard Preview
 
-Add screenshots from the Tableau story here to make the README easier to scan and more visually aligned with a data analysis portfolio.
-
 ![Dashboard 1 - Market Price Relationships](images/Dashboard-1.png)
 ![Dashboard 2 - Property Features and Apartment Pricing](images/Dashboard-2.png)
 ![Dashboard 3 - City-Level Price Benchmarks](images/Dashboard-3.png)
